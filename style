@@ -1,0 +1,3 @@
+#! /bin/sh
+cp /Users/kevinschaul/Documents/MapBox/project/minnesota-population/minnesota-population.mml tilemill
+/Users/kevinschaul/development/maps/tilemill/node_modules/carto/bin/carto tilemill/minnesota-population.mml > tilemill/minnesota-population.xml

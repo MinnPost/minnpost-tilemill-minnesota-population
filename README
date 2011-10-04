@@ -1,0 +1,9 @@
+Just about all of this code comes from the Chicago Tribune news apps team. It's modified to use Minnesota's data. All credit goes to them, and to their awesome tutorial.
+
+From them:
+
+This code accompanies a five-part blog series on our recent explorations making choropleth maps using PostGIS, TileMill, Mapnik and Google Maps. On completion of the tutorial you'll have made something like this:
+http://media.apps.chicagotribune.com/census-2010/census-demo/index.html
+
+To work through the tutorial go here:
+http://blog.apps.chicagotribune.com/2011/03/07/making-maps-1/

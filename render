@@ -1,0 +1,4 @@
+#! /bin/sh
+rm -rf minnesota-population/.tiles
+mkdir minnesota-population/.tiles
+python render_tiles.py tilemill/minnesota-population.xml minnesota-population/.tiles/ 49.5 -97.5 43.4 -89.1 7 10 2
